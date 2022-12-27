@@ -1,5 +1,1 @@
-# New
-hello my name is krishna
-hiii
-
-hello sanket
+Cleared this file
